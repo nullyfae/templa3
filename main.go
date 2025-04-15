@@ -8,7 +8,7 @@ import (
 	"log/slog"
 	"os"
 
-	"github.com/jmwielandt/templa3/templa3"
+	"github.com/nullyfae/templa3/templa3"
 )
 
 func parseCLIArgs() (tplt string, vars string, verbosePrints bool) {

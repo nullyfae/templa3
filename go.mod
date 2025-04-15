@@ -4,10 +4,7 @@ go 1.23.0
 
 toolchain go1.24.2
 
-require (
-	github.com/Masterminds/sprig/v3 v3.3.0
-	github.com/jmwielandt/templa3 v0.0.0-20240306225618-686984f1754f
-)
+require github.com/Masterminds/sprig/v3 v3.3.0
 
 require (
 	dario.cat/mergo v1.0.1 // indirect
